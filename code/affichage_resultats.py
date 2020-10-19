@@ -2,6 +2,9 @@ import numpy as np
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 
+# Le poids correspond à l'importance que vous donnez à un paramètre
+# Mettez le poids du premier paramètre à 1, puis à partir de celui là, évaluez le poids des autres
+
 def sim():
     print("\n---------- Bienvenue ----------\n")
 
