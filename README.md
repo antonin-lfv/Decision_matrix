@@ -8,3 +8,4 @@ Run the first function named "sim()", enter your parameters, and start the simul
 
 ### Results 
 
+<img width="670" alt="Capture d’écran 2020-10-19 à 22 42 27" src="https://user-images.githubusercontent.com/63207451/96510197-73439700-125d-11eb-9297-4d7f8ca13ec0.png">
